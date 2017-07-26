@@ -7,7 +7,7 @@
 
 ##
 
-The question is not new. It arises because it is clinical plausible, epidemiologically plausible, and consistent with
+the question is not newi; it arises because it is clinical plausible, epidemiologically plausible, and consistent with
 fibre studies and existing case-control data.
 
 ## 
@@ -85,7 +85,7 @@ we carried out a meta-analysis of previous case-control studies; pooled PAF esti
 
 ##
 
-- funded by Wellcome Trust and in the NIHR portfolio. All regulatory approvals in place.
+- funded by Wellcome Trust and in the NIHR portfolio; all regulatory approvals in place
 - registered [clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507)
 - full study documentation online at [www.ipfjes.org](http://ipfjes.org/)
 
