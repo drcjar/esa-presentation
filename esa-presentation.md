@@ -7,14 +7,15 @@
 
 ##
 
-the question is not newi; it arises because it is clinical plausible, epidemiologically plausible, and consistent with
-fibre studies and existing case-control data.
+the question is not new; it arises because it is clinical plausible, epidemiologically plausible, and consistent with
+fibre studies and existing case-control data
 
 ## 
 
 - clinical presentation can be similar
 - radiologically and histopathologically both give rise to UIP - no differentiating biomarkers
-- doctors may not elicit previous asbestos exposure and patients may not recall it; unclear what dose is needed
+- doctors may not elicit previous asbestos exposure and patients may not recall it
+- unclear what dose is needed
 
 
 ## 
@@ -33,12 +34,6 @@ fibre studies and existing case-control data.
 
 
 
-##
-
-![Barber et al. UK asbestos imports and mortality due to idiopathic pulmonary fibrosis. Occ Medicine, 2015](images/pic5.jpeg){ width=65% }
-
-
-
 ## Fibre studies and existing case-control data
 
 ## 
@@ -50,27 +45,29 @@ fibre studies and existing case-control data.
 - 14 case-control studies to date 
 - most use community controls and self-reported exposure measures; none quantify asbestos exposure
 - occupational overlap with mesothelioma case-control studies e.g metal-plate workers
+- associations with common asbestos co-exposures e.g metal and wood dust 
 
 ##
 
-we carried out a meta-analysis of previous case-control studies; pooled PAF estimates by exposure category (VGDF, Metal, Wood, Agricultural dust) ranged from 4 to 14\% 
+I carried out a meta-analysis of previous case-control studies; pooled PAF estimates by exposure category (metal, wood, agricultural dust, stone, VGDF) ranged from 4 to 14\% 
 
 ##
 
 | Exposure          | Risk estimates (n) | Pooled OR (95% CI) | Pooled PAF (95% CI) |
 |-------------------|--------------------|--------------------|---------------------|
-| VGDF*             | 8                  | 1.6 (1.3-1.9)      | 14 (12-17)          |
-| Metal dust        | 10                 | 1.4 (1.3-1.7)      | 8 (6-10)            |
+| VGDF*             | 8                  | 1.6 (1.3-2.4)      | 14 (12-17)          |
+| Metal dust        | 10                 | 1.4 (1.3-2.4)      | 8 (6-10)            |
 | Wood dust         | 11                 | 1.7 (1.3-2.2)      | 4 (3-5)             |
-| Agricultural dust | 6                  | 1.7 (1.2-2.3)      | 9 (6-12)            |
+| Agricultural dust | 6                  | 1.8 (1.2-3.1)      | 8 (5-10)            |
+| Silica dust       | 9                  | 1.7 (1.3-2.3)      | 7 (5-9)             |
 
 # Why the question matters
 
 ##
 
 - it's bad to not know the cause of a killer disease that is becoming more common
-- there is ongoing asbestos exposure globally (including the UK) 
-- there is reason to think some IPF is due to asbestos, if this is the case we can better understand and prevent IPF
+- there is ongoing asbestos exposure globally 
+- there is reason to think some IPF is due to asbestos, if this is the case we can better understand and prevent IPF globally
 
 # What IPFJES is and why it's needed 
 
@@ -88,6 +85,35 @@ we carried out a meta-analysis of previous case-control studies; pooled PAF esti
 - funded by Wellcome Trust and in the NIHR portfolio; all regulatory approvals in place
 - registered [clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507)
 - full study documentation online at [www.ipfjes.org](http://ipfjes.org/)
+
+# Progress to date
+
+##
+
+since starting in October 2016 I have obtained ethics and HRA approvals, finalised study documentation, developed computer assisted interview software, built a study website, appointed a research assistant, carried out training in asbestos exposure assessment, carried out site initiation visits, and recruited and interviewed participants
+
+##
+
+carried out mortality cohort analysis for IPF, mesothelioma, and asbestosis, developed literature search tool to identify additional relevant literature
+
+
+# Areas of concern
+
+##
+
+recruitment numbers 
+
+##
+
+add table 
+
+# Plans
+
+##
+
+add centres
+more training
+try hard to get it done
 
 # Any questions?
 
