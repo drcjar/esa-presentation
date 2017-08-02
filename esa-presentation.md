@@ -3,8 +3,6 @@
 
 # Is occupational asbestos exposure an under-recognised cause of IPF?
 
-## Why the question arises
-
 ##
 
 the question is not new; it arises because it is clinical plausible, epidemiologically plausible, and consistent with
@@ -34,7 +32,7 @@ fibre studies and existing case-control data
 
 
 
-## Fibre studies and existing case-control data
+## Fibre studies and case-control data
 
 ## 
 
@@ -55,13 +53,14 @@ I carried out a meta-analysis of previous case-control studies; pooled PAF estim
 
 | Exposure          | Risk estimates (n) | Pooled OR (95% CI) | Pooled PAF (95% CI) |
 |-------------------|--------------------|--------------------|---------------------|
-| VGDF*             | 8                  | 1.6 (1.3-2.4)      | 14 (12-17)          |
-| Metal dust        | 10                 | 1.4 (1.3-2.4)      | 8 (6-10)            |
+| Metal dust        | 10                 | 1.4 (1.3-1.7)      | 8 (6-10)            |
 | Wood dust         | 11                 | 1.7 (1.3-2.2)      | 4 (3-5)             |
-| Agricultural dust | 6                  | 1.8 (1.2-3.1)      | 8 (5-10)            |
 | Silica dust       | 9                  | 1.7 (1.3-2.3)      | 7 (5-9)             |
+| Agricultural dust | 6                  | 1.8 (1.0-3.1)      | 9 (6-12)            |
+| VGDF*             | 8                  | 1.6 (1.3-1.9)      | 14 (12-17)          |
 
-# Why the question matters
+
+# Does it matter? 
 
 ##
 
@@ -69,7 +68,7 @@ I carried out a meta-analysis of previous case-control studies; pooled PAF estim
 - there is ongoing asbestos exposure globally 
 - there is reason to think some IPF is due to asbestos, if this is the case we can better understand and prevent IPF globally
 
-# What IPFJES is and why it's needed 
+# What's IPFJES? 
 
 ## 
 
@@ -78,8 +77,6 @@ I carried out a meta-analysis of previous case-control studies; pooled PAF estim
 - blood test for susceptibility genetics to investigate gene-exposure interactions
 - basically a telephone-interview + blood test for 920 patients at 16 centres
   
-# 
-
 ##
 
 - funded by Wellcome Trust and in the NIHR portfolio; all regulatory approvals in place
@@ -94,26 +91,40 @@ since starting in October 2016 I have obtained ethics and HRA approvals, finalis
 
 ##
 
-carried out mortality cohort analysis for IPF, mesothelioma, and asbestosis, developed literature search tool to identify additional relevant literature
+I've also carried out a mortality cohort analysis for IPF, mesothelioma, and asbestosis, and developed a literature search tool to identify additional relevant literature
 
 
 # Areas of concern
 
 ##
 
-recruitment numbers 
+recruitment, recruitment, recruitment 
 
 ##
 
-add table 
+- 19 organisations are participating
+- 13 site visits have taken place
+- 12 C&Cs have been recieved
+- 5 centres have recruited at least one participant
+
+##
+
+| PI                     | Organisation                                      | Participants           |
+|------------------------|---------------------------------------------------|------------------------|
+| Lisa Spencer           | Aintree University Hospital                       | 17                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester           | 6                      |
+| Carl Reynolds          | Imperial College                                  | 4                      |
+| Huzaifa Adamali        | North Bristol                                     | 2                      |
+| Owen Dempsey           | Aberdeen Royal                                    | 2                      |
 
 # Plans
 
 ##
 
-add centres
-more training
-try hard to get it done
+- get other centres up and running
+- add centres
+- more training
+- get it done
 
 # Any questions?
 
