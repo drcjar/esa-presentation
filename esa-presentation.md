@@ -34,7 +34,7 @@ fibre studies and case-control data
 
 ##
 
-80 year old man, soboe, fine creps, worked as industrial lagger in power stations and railways for 40 years. Wife has pleural plaques. 
+CT request: 80 year old man, soboe, fine creps, asbestos exposure. 
 
 ## 
 
@@ -42,9 +42,13 @@ fibre studies and case-control data
 
 ##
 
-There is extensive coarse reticular shadowing most marked in the lower lobes but extending also into the upper lobes. There are calcified pleural plaques over the left hemidiaphragm. No other abnormality noted.
+"There is extensive coarse reticular shadowing most marked in the lower lobes but extending also into the upper lobes. There are calcified pleural plaques over the left hemidiaphragm. No other abnormality noted.
 
-The parenchymal changes are more **suggestive of IPF rather than asbestos-related interstitial lung disease** although I cannot exclude this.
+The parenchymal changes are more **suggestive of IPF rather than asbestos-related interstitial lung disease** although I cannot exclude this."
+
+##
+
+He worked as industrial lagger in power stations and railways for 40 years. Wife has pleural plaques. 
 
 ## Fibre studies and case-control data
 
